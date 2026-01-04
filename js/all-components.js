@@ -180,6 +180,9 @@ var Table = React.createClass({
 
         return {
             deck: shuffled,
+            player: [],
+            dealer: [],
+            status: "new"
         };
 
     },
