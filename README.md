@@ -2,7 +2,7 @@
 
 A premium, modern, and immersive web-based Blackjack experience built with React.
 
-![Royal Blackjack](img/screenshot.png) <!-- You might want to add a screenshot here later -->
+![Royal Blackjack](img/game.png) <!-- You might want to add a screenshot here later -->
 
 ## Features
 
